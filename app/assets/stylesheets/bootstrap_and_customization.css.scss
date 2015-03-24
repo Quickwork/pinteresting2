@@ -1,0 +1,15 @@
+$body-bg: #3498db;
+$navbar-default-bg: #2980b9;
+$navbar-default-link-color: white;
+$navbar-default-link-hover-color: #34495e;
+$navbar-default-brand-hover-color: #34495e;
+
+@import 'bootstrap';
+
+.center {
+	text-align: center;
+}
+
+.navbar-brand {
+	font-weight: bold;
+}
